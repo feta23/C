@@ -1,5 +1,4 @@
 //George Fotiou
-//Lab 5 task 2
 //palindrome.c
 
 #include <stdio.h>
