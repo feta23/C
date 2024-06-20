@@ -1,7 +1,4 @@
 //George Fotiou
-//
-//COSC 350
-//Lab 10 Task 2
 //bankWithJoin.c
 
 #include <stdio.h>
