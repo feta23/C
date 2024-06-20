@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//Lab 8 Task 2
 //mypopen.c
 
 #include <stdio.h>
