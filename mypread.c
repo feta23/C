@@ -1,6 +1,6 @@
 //George Fotiou
-//Lab 4
-//Task 3
+//mypread.c
+
 
 #include <fcntl.h>
 #include <stdio.h>
