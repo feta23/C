@@ -1,6 +1,6 @@
 //George Fotiou
-//Lab 4
-//Task 2
+//myseek2.c
+
 #include <fcntl.h>
 #include <stdio.h>
 #include <stdlib.h>
