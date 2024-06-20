@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//Lab 9 Task 1
 //basicSig.c
 
 /*infinite program to use ^C to start a 3 second timer. Use ^Z to end*/
