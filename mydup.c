@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//lab6 task3
 //mydub.c
 
 #include <stdio.h>
