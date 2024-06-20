@@ -1,6 +1,6 @@
 // George Fotiou
-// Lab 3
-// Task 2
+//mycp2.c
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
