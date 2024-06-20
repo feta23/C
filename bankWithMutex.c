@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//Lab 10 Task 3
 //bankWithMutex.c
 
 #include <stdio.h>
