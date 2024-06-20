@@ -1,6 +1,6 @@
 //George Fotiou
-//Lab 3
-//Task 3
+//mycp3.c
+
 
 #include <stdio.h>
 #include <stdlib.h>
