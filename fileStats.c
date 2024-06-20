@@ -1,5 +1,4 @@
 //George Fotiou
-//Lab 5 task 4
 //fileStats.c
 
 #include <stdlib.h>
