@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//Lab 9 Task 2
 //userSig.c
 
 #include <stdlib.h>
