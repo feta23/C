@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//lab6 task1
 //mysymlink.c
 
 #include <stdio.h>
