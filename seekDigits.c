@@ -1,6 +1,7 @@
 //George Fotiou
-//Lab 5 task 1
 //seekDigits.c
+
+/* needs to be refactored. Way easier way to do this. */
 
 #include <string.h>
 #include <stdlib.h>
