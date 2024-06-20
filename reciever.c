@@ -1,7 +1,7 @@
 //George Fotiou
-//COSC 350
-//Lab 8 Task 1
 //reciever.c
+
+/* communicates with sender.c */
 
 #include <stdlib.h>
 #include <stdio.h>
