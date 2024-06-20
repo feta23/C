@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//Lab 10 Task 1
 //bank.c
 
 #include <stdio.h>
