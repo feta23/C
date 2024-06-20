@@ -1,6 +1,4 @@
 //George Fotiou
-//COSC 350
-//lab6 task2
 //funTiming.c
 
 #include <stdio.h>
